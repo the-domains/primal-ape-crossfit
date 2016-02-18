@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Primal Ape Crossfit]]></title>
+        <description><![CDATA[Primal Ape Crossfit]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Feb 2016 03:18:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Us]]></title>
+            <description><![CDATA[<article><h1>About Us</h1><p>Primal Ape was created out of a passion for and commitment to fitness. While we are the largest and best-equipped CrossFit box in the Philippines, our primary commitment is to work with you as an individual, and to train you as such, with the ultimate goal of making you the best athlete you can be.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bf7f42f0e8fce19562d13cda096e43d4a7145d43.jpg"></article>]]></description>
+            <link>http://www.primalapecf.com/about-us</link>
+            <guid isPermaLink="false">bb9a3d27-1de0-4ecf-804c-4e040207d656</guid>
+            <pubDate>Thu, 18 Feb 2016 03:06:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
