@@ -1,7 +1,7 @@
 name: Primal Ape Crossfit
 favicon: null
-layout_spectrum: 0.8066657078452408
-typography_spectrum: 0.17633157316595316
+layout_spectrum: 0.50577
+typography_spectrum: 0.37117
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#060808'
+    - '#fdcf00'
+    - '#ffffff'
+    - '#706a1a'
+    - '#859494'
   brandStrength: 0.3133627469651401
   lightness: 0.975810480536893
   saturation: 0.8727304255589843
