@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Primal Ape Crossfit]]></title>
         <description><![CDATA[Primal Ape Crossfit]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/primal-ape-crossfit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 03:18:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Feb 2016 03:18:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/primal-ape-crossfit/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Programs]]></title>
+            <description><![CDATA[<article><h1>Programs</h1><p>Led by 4-time CrossFit regional qualifier and 2013 CrossFit Games athlete Michael Mogard, the class is designed for the competitive CrossFit athlete. Customised programs combine various disciplines to increase strength and lower recovery times. Powerlifting, bodybuilding, and weightlifting movements join CrossFit WODs - with the focus on the quality of lifts, not quantity of weight.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/54743d7ddaad4c36d9de863ffc5e9ece39c02112.jpg"></article>]]></description>
+            <link>http://www.primalapecf.com/programs</link>
+            <guid isPermaLink="false">8fc4eafa-ca42-4891-afbc-5926899ba27c</guid>
+            <pubDate>Thu, 18 Feb 2016 03:06:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About Us]]></title>
-            <description><![CDATA[<article><h1>About Us</h1><p>Primal Ape was created out of a passion for and commitment to fitness. While we are the largest and best-equipped CrossFit box in the Philippines, our primary commitment is to work with you as an individual, and to train you as such, with the ultimate goal of making you the best athlete you can be.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bf7f42f0e8fce19562d13cda096e43d4a7145d43.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>About Us</h1><p>Primal Ape was created out of a passion for and commitment to fitness. While we are the largest and best-equipped CrossFit box in the Philippines, our primary commitment is to work with you as an individual, and to train you as such, with the ultimate goal of making you the best athlete you can be.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/513a39ad85ecc1e64ad7eea585ee0fe0fd483a38.jpg"></article>]]></description>
             <link>http://www.primalapecf.com/about-us</link>
             <guid isPermaLink="false">bb9a3d27-1de0-4ecf-804c-4e040207d656</guid>
             <pubDate>Thu, 18 Feb 2016 03:06:07 GMT</pubDate>
